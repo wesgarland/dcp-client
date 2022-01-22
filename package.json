@@ -23,7 +23,7 @@
     "expand-tilde": "^2.0.2",
     "html-to-text": "^5.1.1",
     "md5": "^2.2.1",
-    "nanoid": "^2.1.11",
+    "nanoid": "^3.1.31",
     "node-localstorage": "^2.1.5",
     "password-prompt": "^1.1.2",
     "physical-cpu-count": "^2.0.0",
